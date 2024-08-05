@@ -138,7 +138,7 @@
 * 接下来，画皮卡丘的小嘴巴
 */
 .upperLip{
-  height: 22px;
+  height: 23px;
   width: 80px;
   border: 3px solid black; 
   position: absolute;
@@ -148,14 +148,14 @@
 }
 .upperLip.left{
   right: 50%;
-  border-bottom-left-radius: 40px 22px;
+  border-bottom-left-radius: 40px 23px;
   border-top: none;
   border-right: none;
   transform: rotate(-20deg);
 }
 .upperLip.right{
   left: 50%;
-  border-bottom-right-radius: 40px 22px;
+  border-bottom-right-radius: 40px 23px;
   border-top: none;
   border-left: none;
   transform: rotate(20deg);
