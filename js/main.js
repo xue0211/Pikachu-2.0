@@ -142,7 +142,7 @@
   width: 80px;
   border: 3px solid black; 
   position: absolute;
-  top: 50px;
+  top: 49px;
   background: #fee433;
 
 }
